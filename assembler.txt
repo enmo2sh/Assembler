@@ -1,0 +1,14 @@
+COP START 1000
+    STL    #10
+    RMO    L,A
+    LDA    THREE
+    COMP   #4
+    JLT    LOOP
+    COMP   #0
+    JEQ    LOP
+LOOP LDA   #4
+     +ADD  #9
+LOP  LDX   #1
+     RMO   X,A
+THREE WORD 3
+     END  1000

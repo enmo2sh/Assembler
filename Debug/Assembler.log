@@ -1,0 +1,13 @@
+﻿  WriteFile.cpp
+C:\Users\Ena\source\repos\Assembler\WriteFile.cpp(16,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ena\source\repos\Assembler\WriteFile.cpp(26,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ena\source\repos\Assembler\WriteFile.cpp(42,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ena\source\repos\Assembler\WriteFile.cpp(53,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ena\source\repos\Assembler\WriteFile.cpp(57,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ena\source\repos\Assembler\WriteFile.cpp(68,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ena\source\repos\Assembler\WriteFile.cpp(84,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ena\source\repos\Assembler\WriteFile.cpp(84,165): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Ena\source\repos\Assembler\WriteFile.cpp(101,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ena\source\repos\Assembler\WriteFile.cpp(101,168): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Ena\source\repos\Assembler\WriteFile.cpp(121,18): warning C4018: '<': signed/unsigned mismatch
+  Assembler.vcxproj -> C:\Users\Ena\source\repos\Assembler\Debug\Assembler.exe

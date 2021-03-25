@@ -1,0 +1,2 @@
+C:\Users\Ena\source\repos\Assembler\Debug\Assembler.exe
+C:\Users\Ena\source\repos\Assembler\Debug\Assembler.pdb
